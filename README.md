@@ -14,7 +14,7 @@ Time-series based unsupervised domain adaptation (UDA) techniques have been wide
 
 ## Results
 <p align="center">
-<img src="misc/RESULT1.jpg" width="900" class="center">
+<img src="misc/RESULT1.png" width="900" class="center">
 </p>
 
 
