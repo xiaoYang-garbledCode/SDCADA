@@ -6,7 +6,7 @@
 
 ## Abstract
 <p align="center">
-<img src="misc/SDCADA.JPG" width="800" class="center">
+<img src="misc/SDCADA.jpg" width="800" class="center">
 </p>
 
 
