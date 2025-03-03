@@ -31,6 +31,18 @@ If you found this work useful for you, please consider citing it.
   pages={1-19},
   doi={10.1016/j.engappai.2022.105375}
 }
+@article{adatime,
+  author = {Ragab, Mohamed and Eldele, Emadeldeen and Tan, Wee Ling and Foo, Chuan-Sheng and Chen, Zhenghua and Wu, Min and Kwoh, Chee-Keong and Li, Xiaoli},
+  title = {ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data},
+  year = {2023},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  issn = {1556-4681},
+  url = {https://doi.org/10.1145/3587937},
+  doi = {10.1145/3587937},
+  journal = {ACM Trans. Knowl. Discov. Data},
+  month = {mar}
+}
 ```
 
 ## Contact
